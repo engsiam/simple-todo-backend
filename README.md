@@ -18,5 +18,5 @@ To get started with this project, follow these steps:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/todo-app.git
+   git clone https://github.com/engsiam/simple-todo-backend
    cd todo-app
