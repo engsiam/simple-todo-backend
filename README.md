@@ -10,7 +10,7 @@ This is a simple Todo application built with Express.js, MongoDB, and Multer for
 
 ## Screenshot
 
-![App Screenshot](path/to/screenshot.png)
+![App Screenshot](https://i.ibb.co/4YBqP5y/todo.png)
 
 ## Installation
 
